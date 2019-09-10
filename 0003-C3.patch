@@ -1,0 +1,16 @@
+From a5f9843808b00cab7e81daa922c8e9acf6edf64a Mon Sep 17 00:00:00 2001
+From: jerome <jeje@tot.fr>
+Date: Tue, 10 Sep 2019 10:08:26 +0200
+Subject: [PATCH 3/3] C3
+
+---
+ logs/.gitkeep | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 logs/.gitkeep
+
+diff --git a/logs/.gitkeep b/logs/.gitkeep
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.23.0.windows.1
+

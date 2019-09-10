@@ -1,0 +1,16 @@
+From e6ae424eff7f1c35318595ccafb5599a41a11a55 Mon Sep 17 00:00:00 2001
+From: jerome <jeje@tot.fr>
+Date: Tue, 10 Sep 2019 10:08:02 +0200
+Subject: [PATCH 2/3] C2
+
+---
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.23.0.windows.1
+
